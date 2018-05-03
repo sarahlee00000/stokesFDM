@@ -1,4 +1,3 @@
 # stokesFDM
-Numerically solves 2D incompressible Stokes equation 
-Variables Pressure P and Velocity U and V.
-Body Force F
+Numerically solves 2D incompressible Stokes equation for P, U and V. 
+
